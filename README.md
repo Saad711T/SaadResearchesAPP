@@ -1,7 +1,7 @@
 # Saad Researches app
 First try with angular web framework development
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/1200px-Angular_gradient.png" width="400px" alt="angular">
+<img src="https://dac.digital/wp-content/uploads/2023/05/angular-logo-1.png" width="400px" alt="angular">
 
 ## Goal
 Collect and put my scientific researches in one place.
